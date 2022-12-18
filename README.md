@@ -1,5 +1,5 @@
 # Customer-Churn-prediction-with-Machine-Learning-Algorithms
-Explored the dataset with 85 predicted variables and one target variable with binary classes.
+Explored the dataset with 85 predictor variables and one target variable with binary classes.
 
 Balanced the dataset and employed feature engineering techniques like missing value imputation, categorical variables identification, etc.
 
