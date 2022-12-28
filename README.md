@@ -5,4 +5,4 @@ Balanced the dataset and employed feature engineering techniques like missing va
 
 Applied plain vanilla machine learning models and then tried to optimize the models with GridSearch embedded with 5-fold cross validation.
 
-Gradient bossting provided the best performance in both plain and optimizaed versions.
+Extreme Gradient bossting provided the best performance in both plain and optimizaed versions.
